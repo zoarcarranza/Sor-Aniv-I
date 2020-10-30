@@ -1,0 +1,271 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+.masterS {
+    background-color: white;
+    display: inline-block;
+    position: absolute;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 250.2%;
+    width: 70%;
+}
+
+.s1 {
+    background-color: red;
+    display: inline-block;
+    position: relative;
+    height: 10%;
+    width: 100%;
+}
+
+.s2 {
+    background-color: gold;
+    display: block;
+    position: absolute; 
+    height: 15%;
+    width: 30%; 
+}
+
+.s3 {
+
+    background-color: aqua;
+    display: inline-block;
+    position: absolute; 
+    margin-left: 30%;
+    height: 15%;
+    width: 40%;    
+}   
+
+.s4 {
+
+    background-color: blue;
+    display: inline-block;
+    position: absolute;
+    margin-left: 70%;
+    height: 15%;
+    width: 30%;    
+}
+
+.s5 {
+
+    background-color: chartreuse; 
+    display: inline-block;
+    position: absolute;  
+    margin-top: 18.7%;
+    height: 5%;
+    width: 100%;  
+}
+
+.s6 {
+    
+    background-color: darkmagenta;
+    display: inline-block;
+    position: absolute;
+    margin-top: 24.9%;
+    height: 30%;
+    width: 60%;
+}
+
+.s7 {
+    
+    background-color: fuchsia;
+    display: inline-block;
+    position: absolute;
+    margin-top: 24.9%;
+    margin-left: 60%;
+    height: 15%;
+    width: 40%;
+}
+
+.s8 {
+    
+    background-color: gray;
+    display: inline-block;
+    position: absolute;
+    margin-top: 43.6%;
+    margin-left: 60%;
+    height: 15%;
+    width: 40%;
+}
+
+.s9 {
+    
+    background-color: green;
+    display: inline-block;
+    position: absolute;
+    margin-top: 62.3%;
+    height: 15%;
+    width: 33.3%;
+}
+
+.s10 {
+    
+    background-color:teal;
+    display: inline-block;
+    position: absolute;
+    margin-top: 62.3%;
+    margin-left: 33.3%;
+    height: 15%;
+    width: 33.3%;
+}
+
+.s11 {
+    
+    background-color: indianred;
+    display: inline-block;
+    position: absolute;
+    margin-top: 62.3%;
+    margin-left: 66.6%;
+    height: 15%;
+    width: 33.4%;
+}
+
+.s12 {
+    
+    background-color: lightblue;
+    display: inline-block;
+    position: absolute;
+    margin-top: 81%;
+    height: 12%;
+    width: 30%;
+}
+
+.s13 {
+    
+    background-color: maroon;
+    display: inline-block;
+    position: absolute;
+    margin-top: 81%;
+    margin-left: 30%;
+    height: 12%;
+    width: 40%;
+}
+
+.s14 {
+
+    background-color: navajowhite; 
+    display: inline-block;   
+    position: absolute;
+    margin-top: 81%;
+    margin-left: 70%;
+    height: 12%;
+    width: 30%;
+}
+
+.s15 {
+    
+    background-color: orangered;
+    display: inline-block;
+    position: absolute;
+    margin-top: 96%;
+    height: 5%;
+    width: 100%;
+}
+
+.s16 {
+    
+    background-color: pink;
+    display: inline-block;
+    position: absolute;
+    margin-top: 102.2%;
+    height: 15%;
+    width: 33.3%;
+}
+
+.s17 {
+    
+    background-color: red;
+    display: inline-block;
+    position: absolute;
+    margin-top: 102.2%;
+    margin-left: 33.3%;
+    height: 15%;
+    width: 33.3%;
+}
+
+.s18 {
+    
+    background-color: seagreen;
+    display: inline-block;
+    position: absolute;
+    margin-top: 102.2%;
+    margin-left: 66.6%;
+    height: 15%;
+    width: 33.4%;
+}
+
+.s19 {
+    
+    background-color: teal;
+    display: inline-block;
+    position: absolute;
+    margin-top: 120.9%;
+    height: 12%;
+    width: 30%;
+}
+
+.s20 {
+    
+    background-color: violet;
+    display: inline-block;
+    position: absolute;
+    margin-top: 120.9%;
+    margin-left: 30%;
+    height: 12%;
+    width: 40%;
+}
+
+
+.s21 {
+    
+    background-color: wheat;
+    display: inline-block;
+    position: absolute;
+    margin-top: 120.9%;
+    margin-left: 70%;
+    height: 12%;
+    width: 30%;
+}
+
+.s22 {
+    
+    background-color: yellow;
+    display: inline-block;
+    position: absolute;
+    margin-top: 135.9%;
+    height: 15%;
+    width: 100%;
+}
+
+.s23 {
+    
+    background-color: brown;
+    display: inline-block;
+    position: absolute;
+    margin-top: 154.6%;
+    height: 5%;
+    width: 100%;
+}
+
+.s24 {
+    
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    margin-right: 85%;
+    width: 15%;
+    height: 260.7%;
+}
+
+.s25 {
+    
+    background-color: midnightblue;
+    display: inline-block;
+    position: absolute;
+    margin-left: 85%;
+    width: 15%;
+    height: 260.7%;    
+}
